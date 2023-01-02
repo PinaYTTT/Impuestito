@@ -6,7 +6,7 @@ readme = open("./README.md", "r")
 setup(
     name='impuestito',
     packages=['impuestito'],  # this must be the same as the name above
-    version='0.3Beta',
+    version='0.4Beta',
     description='Impuestito es una API local para calcular impuestos al hacer compras al exterior,',
     long_description=readme.read(),
     long_description_content_type='text/markdown',
